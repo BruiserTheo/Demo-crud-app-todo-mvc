@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #7ec6ff;
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
+
+h1{
+    color: #c3653f;
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+.not{
+    text-decoration: underline;
+}
+
+.submission{
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
